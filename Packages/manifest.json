@@ -1,0 +1,1 @@
+{"dependencies": {"com.unity.xr.oculus": "3.2.2", "com.unity.xr.management": "4.2.1", "com.unity.render-pipelines.universal": "14.0.9", "com.unity.inputsystem": "1.6.1", "com.unity.textmeshpro": "3.0.6", "com.unity.analytics": "4.4.0", "com.unity.ugui": "1.0.0"}, "scopedRegistries": [], "testables": ["com.unity.xr.oculus"]}
